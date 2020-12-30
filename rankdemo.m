@@ -23,7 +23,6 @@
 ## Author: Nir Krakauer <mail@nirkrakauer.net>
 
 data_dir = 'data_samples_12-24/'; #change this to the right path, if needed
-data_dir = '/home/nir/Documents/data/projrank/data_samples_12-24/';
 
 pkg load jsonstuff #provides jsondecode
 
